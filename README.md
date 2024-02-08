@@ -14,7 +14,7 @@
  
 
 <h2>👨‍💻 Certifications:</h2>
-<b>- ISC2 Certified in Cyber Security| <a href="https://www.credly.com/badges/0355ab7e-e79c-44e2-a127-3182799063e4/linked_in_profile" target="_blank">View <Certification</a><br>
+<b>- ISC2 Certified in Cyber Security| <a href="https://www.credly.com/badges/0355ab7e-e79c-44e2-a127-3182799063e4/linked_in_profile" target="_blank"> View Certification </a><br>
 <b>- Comptia Security + | <a href="https://www.credly.com/badges/115b0643-634d-49f7-85ae-b3b6589f23ab/linked_in_profile" target="blank">View Certification</a><br>
 <b>- Comptia Cysa +  <a href="https://www.credly.com/badges/b3a7df98-70ee-404f-93a8-52460ee39a36/linked_in_profile?trk=public_profile_certification-title" target="blank">View Certification</a>
 
