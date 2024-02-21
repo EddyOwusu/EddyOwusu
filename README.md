@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
+https://www.youtube.com/watch?v=fdW9JPwPxnI
   
 - <b>Wordpress Penetration Testing</b>
  
