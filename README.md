@@ -5,13 +5,11 @@
 - <b>Active Directory Home Lab</b>
 https://www.youtube.com/watch?v=fdW9JPwPxnI
   
-- <b>Wordpress Penetration Testing</b>
+- <b>Penetration Testing Project</b>
  
-- <b>Docker Environment Setup</b>
+- <b>Web Application Security Audit</b>
 
-- <b>Cross Site Scripting</b>
- 
-- <b>Malware Detection with Splunk</b>
+- <b>Incidence Response Similution</b>
  
 
 <h2>👨‍💻 Certifications:</h2>
