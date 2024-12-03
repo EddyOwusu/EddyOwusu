@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edward! <br/><a href="https://github.com/EddyOwusu/cyberwithed">WebApp Pentester</a>, <a href="https://www.linkedin.com/in/edward-fosu-owusu-856332158/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCGPpaapZkcVCcC0199S9ilag">YouTuber</a></h1>
+<h1>Hi, I'm Edward! <br/><a href="https://github.com/EddyOwusu/cyberwithed">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/edward-fosu-owusu-856332158/"></a>, <a href="https://www.youtube.com/channel/UCGPpaapZkcVCcC0199S9ilag">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
