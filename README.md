@@ -23,6 +23,6 @@ https://www.youtube.com/watch?v=fdW9JPwPxnI
 
 <h2> 🤳 Connect with me:</h2>
 
-[youtube]https://www.youtube.com/channel/UCGPpaapZkcVCcV019S9iIag
+[youtube]https://www.youtube.com/channel/UCGPpaapZkcVCcV019S9iIag<br>
 [linkedin]https://www.linkedin.com/in/edward-fosu-owusu/
 
